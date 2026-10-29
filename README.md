@@ -60,5 +60,5 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![Network Settings](./network_setting.png)
+![image alt]([./network_setting.png](https://github.com/ANANT-CLOUD/NETWORKWALKS-B084J-WK1-PM1-CYBERSECURITY-LAB-SETUP-SAMPLE/blob/90ebf1d7750df7539ecb4004dcb828a1f2bd6e62/network%20setting.png))
 
