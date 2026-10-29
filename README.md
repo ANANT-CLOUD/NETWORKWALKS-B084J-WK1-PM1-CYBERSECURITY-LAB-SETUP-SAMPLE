@@ -210,14 +210,14 @@ This provides a known-good recovery point for future cybersecurity exercises.
 I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
 
 
-# 🔐 Security & Ethical Use
+#  Security & Ethical Use
 
 This laboratory is intended strictly for education purposes only.
 
 
 #  Author
 
-**Waqas Karim**\
+**ANANT KUMAR SAGAR**\
 Cybersecurity Professional B084J
 
 Linkdin:[https://www.linkedin.com/in/anantkumarsagar/]
