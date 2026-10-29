@@ -60,5 +60,9 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![image alt]([./network_setting.png](https://github.com/ANANT-CLOUD/NETWORKWALKS-B084J-WK1-PM1-CYBERSECURITY-LAB-SETUP-SAMPLE/blob/90ebf1d7750df7539ecb4004dcb828a1f2bd6e62/network%20setting.png))
+![image alt](
+
+A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
+
+This will allow future attacker and target VMs to communicate within the lab.
 
